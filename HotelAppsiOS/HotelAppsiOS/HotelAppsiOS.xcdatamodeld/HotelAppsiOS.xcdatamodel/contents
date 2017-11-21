@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13241" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Hotel" representedClassName="Hotel" syncable="YES" codeGenerationType="class">
+        <attribute name="alamat_Hotel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fasilitas_Hotel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="good_Hotel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lokasi_terdekat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nama_Hotel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rate_Hotel" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Hotel" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
